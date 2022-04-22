@@ -58,6 +58,20 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - assets/images/mine/
+    - assets/images/wechat/
+    - assets/images/login/
+    - assets/images/group/
+    - assets/images/friends/
+    - assets/images/emoji/
+    - assets/images/discover/
+    - assets/images/contact/
+    - assets/images/chat/
+    - assets/git/
+    - assets/data/
+    - assets/images/
+    - assets/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
